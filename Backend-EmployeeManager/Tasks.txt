@@ -1,0 +1,3 @@
+-Implement Post User with initial Rol
+
+-Implement Passwords Hash and Salt for Users Post

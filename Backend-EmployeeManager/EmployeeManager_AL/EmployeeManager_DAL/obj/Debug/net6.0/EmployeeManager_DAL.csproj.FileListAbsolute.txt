@@ -1,0 +1,14 @@
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\bin\Debug\net6.0\EmployeeManager_DAL.deps.json
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\bin\Debug\net6.0\EmployeeManager_DAL.runtimeconfig.json
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\bin\Debug\net6.0\EmployeeManager_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\bin\Debug\net6.0\EmployeeManager_DAL.pdb
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.csproj.AssemblyReference.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.AssemblyInfoInputs.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.AssemblyInfo.cs
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.csproj.CoreCompileInputs.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\refint\EmployeeManager_DAL.dll
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.pdb
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\EmployeeManager_DAL.genruntimeconfig.cache
+C:\Diego\proyectos\Programación\Proyectos FULLSTACK\EmployeeManager\Backend-EmployeeManager\EmployeeManager_AL\EmployeeManager_DAL\obj\Debug\net6.0\ref\EmployeeManager_DAL.dll
